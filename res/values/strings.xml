@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DLM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="noBLTitle">Habilitar Bluetooth</string>
+    <string name="noBLMsg">Habilitar Bluetooth y reiniciar la aplicación</string>
+    <string name="txtMajor">Agregar Major</string>
+    <string name="txtMinor">Agregar Minor</string>
+    <string name="txtDistance">Establecer mínima de reacción</string>
+    <string name="txtSave">Guardar configuración</string>
+    <string name="txtInit">Iniciar monitoreo</string>
+    <string name="saved">Guardado</string>
+    <string name="title_activity_alert">AlertActivity</string>
+    <string name="srvInit">Servicio iniciado</string>
+
+</resources>
